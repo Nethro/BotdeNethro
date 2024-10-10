@@ -13,9 +13,9 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["51926933818", '@𝘠𝘢𝘭𝘭𝘪𝘤𝘰.𝘖𝘸𝘯𝘦𝘳 ⚡︎', true], //𝙵𝚕𝚊𝚜𝚑 𝙱𝚘𝚝 ⚡︎
-["51926933818"],
-["51926933818"]]
+["51963313750", '𝗡𝗘𝗧𝗛𝗥𝗢 𝙓 ♦️', true], //𝗡𝗘𝗧𝗛𝗥𝗢 𝙓 ♦️
+["59169677028"],'𝗡𝗘𝗧𝗛𝗥𝗢 𝙓 ♦️', true],
+["56923896446"]]
 
 global.mods = []
 global.prems = []
@@ -113,9 +113,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["51926933818", '𝗬𝗮𝗹𝗹𝗶𝗰𝗼 ⚡', 1], 
-["393293555934", '𝗕𝗲𝘁𝘀𝘅𝘅.𝗹𝘇 ❤️', 1],  
-["393293555934", '𝗕𝗲𝘁𝘀𝘅𝘅.𝗹𝘇 𝗕𝗼𝘁 ❤️', 1]]
+["591669677028", '𝗡𝗘𝗧𝗛𝗥𝗢 𝙓', 1], 
+["5493853052098", '𝗡𝗘𝗧𝗛𝗥𝗢 ♦️', 1],  
+["56923896446", '𝗡𝗘𝗧𝗛𝗥𝗢 𝗕𝗼𝘁', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -123,16 +123,29 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = `╭ 𝗕𝗲𝘁𝘀𝘅𝘅.𝗹𝘇 𝗕𝗼𝘁 ❤️\n┃\n┃ » Fb:\n┃ Yallico J-j\n┃\n┃ » WhatsApp:\n┃ +51926933818\n┃\n┃ » Ig:\n┃ @yallico.owner\n╰━━━━━━━━•` //"𝘽𝙚𝙩𝙨𝙭𝙭.𝙡𝙯 𝘽𝙤𝙩 ❤️︎"
-global.author = ` ╭ 𝗬𝗮𝗹𝗹𝗶𝗰𝗼 𝗗𝗶𝗼𝘀 ✓\n ┃\n ┃ » Fb:\n ┃ YallicoJ-j\n ┃\n ┃ ⊹ Super Bot WhatsApp.\n ┃\n ┃ ♡ Apoyo\n ┃ » Paypal:\n ┃ @YallicoPe\n ╰━━━━━━━━•` //"𝙔𝙖𝙡𝙡𝙞𝙘𝙤 𝘿𝙞𝙤𝙨"
-
+global.packname = `╭ 𝗡𝗘𝗧𝗛𝗥𝗢 𝙓 ♦️\n┃\n┃ » WhatsApp :\n┃ +54 9 385 305-2068 \n┃\n┃ » Yt :\n┃ @nethrogaming \n┃\n┃ » 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n┃ @nethro.gaming\n╰━━━━━━━━•` //"𝗡𝗘𝗧𝗛𝗥𝗢 𝙓 ♦️"
+global.author = ` ╭ 𝗡𝗘𝗧𝗛𝗥𝗢 ♦️ ✓\n ┃\n ┃ » WhatsApp :\n ┃ +591 69677028 \n ┃\n ┃ ⊹ Super Bot WhatsApp.\n ┃\n ┃ ♡ Comprar\n ┃ » Yape :\n ┃ +51 963 313 750 \n ╰━━━━━━━━•` //"𝗡𝗘𝗧𝗛𝗥𝗢 ♦️"
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
 // MANTENGA ESTO SIN MODIFICAR, NOS ESFORZAMOS A DIARIO POR OFRECERLES UN BOT PARA LA COMUNIDAD, SEA AGRADECIDO 😉
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "2"
 global.vsJB = "3.0"
-global.gt = "𝘽𝙚𝙩𝙨𝙭𝙭.𝙡𝙯 𝘽𝙤𝙩 ❤️︎"
+global.gt = "𝙉𝙀𝙏𝙃𝙍𝙊 𝘽𝙊𝙏 ♦️︎"
+global.yt = 'https://youtube.com/@nethrogaming'
+global.tiktok = 'https://www.tiktok.com/@nethro_gaming'
+global.md = 'wa.link/4zm7aq'
+
+global.nna = 'https://www.instagram.com/nethro.gaming' //Update
+global.nn = 'https://www.instagram.com/nethro.gaming' //Grupo 1
+global.nnn = 'https://www.instagram.com/nethro.gaming' //Grupo 2
+global.nnnt = 'https://www.instagram.com/nethro.gaming' //Grupo del Colaboracion
+global.nnnt2 = 'https://www.instagram.com/nethro.gaming' // Grupo COL 2
+global.nnntt = 'https://www.instagram.com/nethro.gaming' //Grupo COL 3
+global.nnnttt = 'https://www.instagram.com/nethro.gaming' //enlace lolibot
+global.nnntttt = 'https://www.instagram.com/nethro.gaming' //Grupo ayuda sobre el bot
+global.bot = 'Wa.me/56923896446'
+global.redes = [nna, yt, nn, md, tiktok, fb, nnn]
 
 fetchDataAndProcess().catch(error => console.error('Ocurrió un error:', error))
 
@@ -160,9 +173,9 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝘽𝙚𝙩𝙨𝙭𝙭.𝙡𝙯 𝘽𝙤𝙩 ❤️︎ : 𝙔𝙖𝙡𝙡𝙞𝙘𝙤 𝘿𝙞𝙤𝙨"
-global.igfg = "𝘽𝙚𝙩𝙨𝙭𝙭.𝙡𝙯 𝘽𝙤𝙩 ❤️︎"
-global.nomorown = "51926933818"
+global.wm = "𝗡𝗘𝗧𝗛𝗥𝗢 ♦️ : 𝗡𝗘𝗧𝗛𝗥𝗢 𝙓 ♦️"
+global.igfg = "𝗡𝗘𝗧𝗛𝗥𝗢 ♦️︎"
+global.nomorown = "51963313750"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 

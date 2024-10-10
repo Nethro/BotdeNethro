@@ -22,11 +22,11 @@ const rl = createInterface(process.stdin, process.stdout)
 //const app = express()
 //const port = process.env.PORT || 8080;
 
-say('Yallico\nFlash\nBot', {
+say('Nethro\nFlash\nBot', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(`Por @Yallico.Owner`, {
+say(`Por @Nethro.Gaming`, {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']})

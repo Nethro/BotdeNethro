@@ -1467,10 +1467,10 @@ mentionedJid:[user],
 "showAdAttribution": true,
 "renderLargerThumbnail": true,
 "thumbnail": apii.data, 
-"title": [wm, '𝘉𝘦𝘵𝘴𝘹𝘹.𝘭𝘻 / @𝘠𝘢𝘭𝘭𝘪𝘤𝘰.𝘖𝘸𝘯𝘦𝘳 ❤️'].getRandom(),
+"title": [wm, 'Nethro Bot🎧/ @nethro.gaming'].getRandom(),
 "containsAutoReply": true,
 "mediaType": 1, 
-sourceUrl: accountsgb ? accountsgb : 'https://www.instagram.com/yallico.owner' }}}, { quoted: fkontak2 })
+sourceUrl: accountsgb ? accountsgb : 'https://www.instagram.com/nethro.gaming' }}}, { quoted: fkontak2 })
 apii.data = ''
 //this.sendFile(id, apii.data, 'pp.jpg', text, null, false, { mentions: [user] }, { quoted: fkontak2 })
 }}}

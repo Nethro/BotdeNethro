@@ -146,7 +146,7 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ⚡︎ *BetsxxCoins ➟* ${money} ⚡
 ⚡︎ *Tokens ➟* ${joincount} 🪙
 
-*╭━〔 ⚡ OPCIONES DE MENU ⚡ 〕⬣*
+*╭━〔 *♦️ Nethro Bot ♦️*〕⬣*
 ┃
 ┃Ⓜ️ _*MENÚ COMPLETO*_ Ⓜ️
 ┃➺ _${usedPrefix}menucompleto | allmenu_

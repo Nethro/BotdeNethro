@@ -9,9 +9,9 @@ global.ComprarBot = `
 *Pero No Sabes Quién Es Confiable Y Te Garantiza Soporte 24/7 👀?*
 *Y Lo Mejor A Buen Precio Y Con Buenas Ofertas 🥳?*
 
-*No Esperes Mas Y Contacta A Yallico Owner El Creador De Flash Bot ⚡*
+*No Esperes Mas Y Contacta A Nethro Gaming ⚡*
 
-*Ig :* @yallico.owner
-*WhatsApp :* +51 926 933 818
-*Grupo Oficial :* https://chat.whatsapp.com/LHo0RmYd3pxAQzp24NYcTV
+*Ig :* @nethro.gaming
+*WhatsApp :* +5493853052068
+*Grupo Oficial :* https://chat.whatsapp.com/GdsP3zvi1i1DffCWcqkJyP
 `;

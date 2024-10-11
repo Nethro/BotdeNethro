@@ -6,15 +6,15 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
 try{
 let contact, number, ofc, nombre, description, correo, lugar, enlace, biog
 let pp = gataImg
-const cat = `𝙁𝙡𝙖𝙨𝙝 𝘽𝙤𝙩 ⚡︎
+const cat = `NETHRO BOT
 * ${bot}
 
 *---------------------*
 
-*CENTER FLASH*
-*yallico2024@gmail.com*
+*CENTER NETHRO*
+*nethrocaster@gmail.com*
 
-𝙁𝙇𝘼𝙎𝙃 𝘿𝙄𝙊𝙎 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
+NETHRO 𝘿𝙄𝙊𝙎 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
 *${asistencia}*
 
 *---------------------*

@@ -15,7 +15,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 global.owner = [
 ["51963313750", '𝗡𝗘𝗧𝗛𝗥𝗢 𝙓 ♦️', true], //𝗡𝗘𝗧𝗛𝗥𝗢 𝙓 ♦️
 ["59169677028"],'𝗡𝗘𝗧𝗛𝗥𝗢 𝙓 ♦️', true],
-["56923896446"]]
+["59169677028"]]
 
 global.mods = []
 global.prems = []

@@ -88,14 +88,14 @@ const temaX = [['pornololi', 'nsfwloli'], ['pornopies', 'nsfwfoot'], ['pornoass'
 if (command == 'audioefectomenu'){ //audio
 let menuA = `🎧 ${lenguajeGB['smsConfi2']()} *${username}*
 
-╭┄〔 *${wm}* 〕┄⊱
-┊დ *${week}, ${date}*
-┊დ *${lenguajeGB['smsBotonM4']()} » ${Object.keys(global.db.data.users).length}* 
-┊
-┊დ *${lenguajeGB['smsBotonM5']()} »* ${role}
-┊დ *${lenguajeGB['smsBotonM6']()} » ${level}*
-┊დ *${lenguajeGB['smsBotonM7']()} »* ${user.premiumTime > 0 ? '✅' : '❌'}
-╰┄┄┄┄〔 *𓃠 ${vs}* 〕┄┄┄┄⊱
+ ╭━〔 *${wm}* 〕
+*┃➤* ${week}, ${date}*
+*┃➤* ${lenguajeGB['smsBotonM4']()} » ${Object.keys(global.db.data.users).length}* 
+*┃
+*┃➤* ${lenguajeGB['smsBotonM5']()} »* ${role}
+*┃➤* ${lenguajeGB['smsBotonM6']()} » ${level}*
+*┃➤* ${lenguajeGB['smsBotonM7']()} »* ${user.premiumTime > 0 ? '✅' : '❌'}
+ ╰━━━━━━━━━〔 *𓃠 ${vs}* 〕━━━━NTH
 
 ⠇ ${lenguajeGB['smsTex2']()} 🧰
 ∘ _${usedPrefix}bass_
